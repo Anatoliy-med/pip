@@ -1,8 +1,1 @@
-65432154asda
-
-
-asfg
-asfg
-asfg
-a
-sfg
+print("Hello world!")
